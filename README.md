@@ -1,2 +1,2 @@
 # ml_bootcamp
-ML Bootcamp notebooks that I learned through the journey I took :)
+ML Bootcamp notebooks that I learned through the journey I took in 2024 :)
